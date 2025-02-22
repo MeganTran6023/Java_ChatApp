@@ -1,0 +1,12 @@
+1) Compile code
+
+javac Server.java Client.java
+
+
+2) Run server one terminal
+
+java Server
+
+3) Run client another terminal
+
+java Client
