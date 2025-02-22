@@ -1,6 +1,6 @@
 1) Compile code
 
-javac Server.java Client.java
+javac Server.java ChatClient.java
 
 
 2) Run server one terminal
