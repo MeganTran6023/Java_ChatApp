@@ -1,0 +1,12 @@
+3/18 - Fixed bug
+
+Issue was showing incorrect output where client side did not show server output
+and server side had typo showing client message
+
+How I fixed:
+
+original code: output.println("Server:" + serverResponse);
+
+this caused combo of CLient: Server: .... to output on server end
+
+new code: System.out.println("Server: " + serverResponse);
