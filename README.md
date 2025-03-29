@@ -7,7 +7,8 @@
 
 ### b) Server and Client Interaction (3/18 - bug fixed!)
 see notes.txt
-![image](https://github.com/user-attachments/assets/d6898b7a-2fe5-4444-b6eb-6e2686d67d4e)
+![image](https://github.com/user-attachments/assets/42c25782-965e-45c3-af8a-7df56671c477)
+
 
 ## Purpose
 This project was made to practice applying Java into an interactive chat application. I plan to embed this into a frontend framework to create something that could be utilized by users who need some sort of customer support.
